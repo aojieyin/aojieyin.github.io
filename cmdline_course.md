@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="assets/images/pic1.pnj">  
+[Command Line Tool](https://imgs.xkcd.com/comics/tar_2x.png)  
 
 # **Introduction**
 
@@ -102,7 +102,7 @@ In the fourth week, we will learn to combine simple commands into more complex c
 
 In this course, I've learned how to use `sed` to find and replace patterns in a file. And also I am able to use regular expressions with `sed`. Furthermore, I've learned text processing pipelines.  
 
-<img src="assets/images/pic2.pnj">  
+[Corpus Processing](https://imgs.xkcd.com/comics/regular_expressions.png)  
 
 ```bash
 sed -nE 's/that/which/gp' ulysses.txt
@@ -166,7 +166,7 @@ This is a `make` rule. It will create files in **results/** directory with the *
 
 In the seventh week, we will learn about version control. We'll be introduced to **Git**, one of the most widely used and flexible version control systems today, as well as [**GitHub**](https://github.com/), a widely used platform providing Git support.  
 
-<img src="assets/images/pic3.pnj">  
+[Version Control](https://imgs.xkcd.com/comics/git_commit_2x.png)  
 
 In this course, I've learned how to add files to my local repository, commit these changes, and push the changes to my global repository in Github.
 
